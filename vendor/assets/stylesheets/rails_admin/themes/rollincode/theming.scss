@@ -39,7 +39,8 @@ body.rails_admin .table .header:after {
 }
 
 body.rails_admin .sidebar-nav {
-  background: $primary;
+  /* background: $primary;*/
+  background: $black;
 }
 
 .nav .nav-pills .nav-stacked {
