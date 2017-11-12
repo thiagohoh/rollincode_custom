@@ -118,7 +118,7 @@ body.rails_admin .sidebar-nav > .nav-stacked > li > a {
   &:target {
     background: $secondary;
     border-color: darken($secondary, 10%);
-    color: $primary;
+    color: $black;
   }
 }
 
