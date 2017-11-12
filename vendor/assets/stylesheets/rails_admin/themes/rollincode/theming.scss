@@ -109,8 +109,8 @@ body.rails_admin .sidebar-nav > .nav-stacked > li > a {
 }
 
 .btn-info {
-  background: $primary;
-  border-color: darken($primary, 10%);
+  background: $black;
+  border-color: darken($black, 10%);
 
   &:active,
   &:focus,
